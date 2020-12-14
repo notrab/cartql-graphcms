@@ -1,2 +1,0 @@
-# cartql-graphcms
-Begin app
